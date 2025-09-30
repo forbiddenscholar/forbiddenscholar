@@ -1,6 +1,6 @@
 **Hey, I’m Mohit Deharkar**    
 
-A Chemical Engineering student at **IIT Jodhpur**, but my true passion lies in the world of tech , robotics 🤖, and programming 
+My true passion lies in the world of tech , robotics 🤖, and programming 
 . Python , C and ROS 🤖 are the languages my brain speaks fluently.   
 When I’m not cracking💡 C or Python, I’m out exploring the 
 realms of AI 🧠 and robotics ⚙️, all while making things work in the most innovative ways.  

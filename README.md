@@ -5,6 +5,9 @@ where forbidden questions explore their magic.*** ✨
 
 I’m drawn to **AI 🧠, robotics 🤖, and tech 💻**, and I enjoy figuring out how complex systems actually work — then making them better.
 
+Staying close to the pulse of AI research, building drones, robots, engineering and wandering freely into domains that I don't yet understand
+— gathering knowledge from wherever it hides 🌌
+
 While most days I’m learning, experimenting, and building new **tech 🧪 spells**  
 Some days I go down the holes to cast 🔮 them — that’s usually where the good ideas are born.
 
